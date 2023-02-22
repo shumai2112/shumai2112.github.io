@@ -1,4 +1,4 @@
-This webpage was created using [Cleanfolio](https://rajshekhar26.github.io/cleanfolio)
+This webpage was created using [Cleanfolio](https://github.com/rajshekhar26/cleanfolio)
 
 # Cleanfolio
 
