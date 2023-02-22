@@ -25,8 +25,7 @@ const projects = [
     description:
       'LG 홈로봇 프로토타입 개발',
     stack: ['Android', 'Firmware', 'Driver', 'UI/UX'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    livePreview: 'https://youtu.be/bU5RadM6fNI',
   },
   {
     name: 'APEX Platform',
@@ -54,7 +53,7 @@ const skills = [
   'Kotlin',
   'Java',
   'Python',
-  'AWS'
+  'AWS Developer'
 ]
 
 const contact = {
