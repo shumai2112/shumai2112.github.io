@@ -34,6 +34,7 @@ fnm use
 Install and run -
 
 ```shell
+npm audit fix --force
 yarn
 yarn start
 ```
